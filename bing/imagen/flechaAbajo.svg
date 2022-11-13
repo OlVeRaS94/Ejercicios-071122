@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="299.62671"
+   height="193.04739"
+   viewBox="0 0 299.62671 193.04739"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="flechaAbajo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.540625"
+     inkscape:cx="-89.710983"
+     inkscape:cy="184.9711"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(115.34157,41.955836)">
+    <path
+       style="fill:#ffffff"
+       d="m 183.46616,-26.562772 c -2.25662,-7.46976 -7.89868,-12.73594 -15.8955,-14.83651 -5.69424,-1.49574 -12.59272,0.0896 -17.22911,3.95954 -1.87038,1.56117 -28.6007,32.3299894 -59.400705,68.375149 -30.800003,36.045168 -56.303004,65.564228 -56.673344,65.597918 -0.37034,0.0337 -24.8433895,-28.17624 -54.38455,-62.688738 -29.54116,-34.51249958 -55.788161,-64.906599 -58.326661,-67.542449 -5.34982,-5.55499 -12.47326,-8.26291 -18.81183,-7.15117 -13.20138,2.31542 -21.40159,16.04318 -16.7925,28.1119 1.33724,3.5015194 18.20944,23.832469 67.495861,81.332307 36.14211,42.165085 67.0453,77.612505 68.67375,78.772065 5.16058,3.67466 11.32547,4.66668 17.48124,2.813 2.93592,-0.88409 6.51327,-2.61503 7.94967,-3.84655 5.68976,-4.87816 133.162649,-155.1298926 134.948439,-159.063112 1.98072,-4.36258 2.32702,-9.32561 0.96524,-13.83335 z"
+       id="path836" />
+  </g>
+</svg>
