@@ -12,3 +12,5 @@ Tenemos que hacer los layout de GOOGLE, BING Y NETFLIX.
 ![foto de google](imagenes/google.PNG)
 
 ![foto de bing](imagenes/bing.PNG)
+
+![foto de netflix](imagenes/netflix.PNG)
