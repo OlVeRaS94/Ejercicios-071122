@@ -1,0 +1,149 @@
+body {
+  background-color: black;
+}
+
+#principal {
+  background-color: black;
+  height: 600px;
+  width: 100%;
+}
+#principal .header {
+  height: 60px;
+}
+#principal .header .caja {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-color: black;
+  display: grid;
+}
+#principal .header .caja .info {
+  height: 100%;
+  display: grid;
+  align-items: center;
+}
+#principal .header .caja .info .logo {
+  margin: 0 16px;
+}
+#principal .header .caja .info .logo img {
+  width: 100%;
+}
+#principal .header .caja .info .info {
+  grid-column: 2/5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#principal .header .caja .info .info p {
+  margin: 0 16px;
+  font-size: larger;
+  color: white;
+}
+#principal .header .caja .info .info p:hover {
+  font-weight: bold;
+  cursor: pointer;
+}
+#principal .header .caja .iconos {
+  height: 100%;
+  grid-column: 3/4;
+  background-color: black;
+  display: grid;
+  justify-items: flex-end;
+  align-items: center;
+}
+#principal .header .caja .iconos .img {
+  height: calc(60px - 24px);
+  display: flex;
+  align-items: center;
+}
+#principal .header .caja .iconos .img img {
+  margin: 0 16px;
+  height: calc(60px - 24px - 50%);
+}
+#principal .header .caja .iconos .img :last-child {
+  height: 100%;
+}
+#principal .principal2 {
+  height: 240px;
+  width: 100%;
+}
+#principal .principal2 .seccion {
+  margin-top: 32px;
+  height: 100%;
+  display: grid;
+}
+#principal .principal2 .seccion .favorita {
+  grid-row: 1/2;
+  display: flex;
+  align-items: flex-end;
+  padding: 8px;
+}
+#principal .principal2 .seccion .favorita h1 {
+  font-weight: bold;
+  font-size: x-large;
+  color: white;
+}
+#principal .principal2 .seccion .lista {
+  padding: 8px;
+  grid-row: 2/6;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+#principal .principal2 .seccion .lista .articulo {
+  grid-column: 1fr;
+}
+#principal .principal2 .seccion .lista #pelicula1 {
+  background: url(../img/caratulas/127h.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula2 {
+  background: url(../img/caratulas/alien.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula3 {
+  background: url(../img/caratulas/guardianes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula4 {
+  background: url(../img/caratulas/malefica.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula5 {
+  background: url(../img/caratulas/rey\ leon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula6 {
+  background: url(../img/caratulas/señor.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula7 {
+  background: url(../img/caratulas/terminator.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula8 {
+  background: url(../img/caratulas/titanic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula9 {
+  background: url(../img/caratulas/mono.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#principal .principal2 .seccion .lista #pelicula10 {
+  background: url(../img/caratulas/avatar.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.favorita2{
+    color: white;
+    margin-top: 100px;
+}
